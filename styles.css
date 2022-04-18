@@ -8,6 +8,25 @@ body {
 .header {
     color: whitesmoke;
 }
+
+.main {
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    margin: 20px;
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+}
+
+.display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blanchedalmond;
+    height: 100px;
+    border-radius: 20px;
+}
 .footer {
     position: fixed;
     align-content: center;
