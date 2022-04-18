@@ -1,0 +1,21 @@
+body {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(37, 58, 58);
+}
+.header {
+    color: whitesmoke;
+}
+.footer {
+    position: fixed;
+    align-content: center;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    padding: 5px;
+    height: 30px;
+    background-color: darkslategrey;
+    color: whitesmoke;
+}
