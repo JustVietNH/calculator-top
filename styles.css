@@ -25,7 +25,7 @@ body {
     align-items: center;
     background-color: blanchedalmond;
     height: 100px;
-    border-radius: 20px;
+    border-radius: 20px1;
 }
 .footer {
     position: fixed;
@@ -37,4 +37,13 @@ body {
     height: 30px;
     background-color: darkslategrey;
     color: whitesmoke;
+}
+
+
+.buttonField {
+    display: flex;
+}
+
+.buttonGrid {
+    display: grid;
 }
